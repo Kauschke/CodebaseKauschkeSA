@@ -1,6 +1,8 @@
 ## CodebaseKauschkeSA
 
-In der hier dargestellten Ordnerstruktur ist der Python-Code der Studienarbeit "Erweiterung eines bestehenden Optimierungsmodells zur Auslegung von industriellen Energiesystemen" abgelegt. Es umfasst das Einlesen der Inputdaten wie der Energiebedarfe oder der Strom- und Gaspreise. FINE (Framework for Integrated Energy System Assessment) wurde im Rahmen der Studienarbeit in PyCharm verwendet, weshalb der verwendete Code nur als Python-Code vorliegt.
+In der hier dargestellten Ordnerstruktur ist der Python-Code der Studienarbeit "Erweiterung eines bestehenden Optimierungsmodells zur Auslegung von industriellen Energiesystemen" abgelegt. Es umfasst das Einlesen der Inputdaten, die Modellierung und Optimierung des bestehenden und erweiterten Energiesystems sowie die Szenariennalyse.
+
+FINE (Framework for Integrated Energy System Assessment) wurde im Rahmen der Studienarbeit in PyCharm verwendet, weshalb der verwendete Code nur als Python-Code vorliegt.
 
 # 1. Inputdaten
 Das Skript umfasst das Einlesen der Inputdaten wie der Energiebedarfe oder der Strom- und Gaspreise. Eine Gliederung des Skrips ist dem manual zu entnehmen.
