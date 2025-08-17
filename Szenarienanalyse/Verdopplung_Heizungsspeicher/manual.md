@@ -1,4 +1,4 @@
-# Python-Skript für die Optimierung des bestehenden Energiesystems
+# Python-Skript für das Szenario "Verdopplung Heizungsspeicher"
 
 Das Python-Skript hat die folgende Gliederung, welche als Kommentar im Code wiederzufinden ist:
 
